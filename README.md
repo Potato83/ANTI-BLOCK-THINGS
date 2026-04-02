@@ -4,6 +4,11 @@ longread
 
 посути только ссылки на сами гайды :p
 
+#MTProto proxy for telegram
+https://mtproto.ru/
+https://github.com/SoliSpirit/mtproto
+t.me/ProxyMTProto
+
 # ByeDPI for ANDROID
 https://github.com/dovecoteescapee/byedpiandroid
 https://github.com/romanvht/ByeByeDPI
