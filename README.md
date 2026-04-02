@@ -3,15 +3,21 @@ longread
 
 
 посути только ссылки на сами гайды :p
-# AmneziaVPN (warp)
+
+# ByeDPI for ANDROID
+https://github.com/dovecoteescapee/byedpiandroid
+https://github.com/romanvht/ByeByeDPI
+
+# AmneziaVPN(warp) - Phone/PC
 https://telegra.ph/AmneziaVPN--gajd-na-telefon-02-15
-# Tor portable
+
+# Tor portable(Winows)
 https://telegra.ph/Korotkij-gajd-dlya-Tor-Portable-dlya-Windows-11-22
 
-# Zapret 2
+# Zapret 2 - PC
 https://github.com/bol-van/zapret2
 
-# Zapret for TG
+# Zapret for TG - PC
 https://github.com/Flowseal/tg-ws-proxy
 
 # VPN(почти бесплатно)
