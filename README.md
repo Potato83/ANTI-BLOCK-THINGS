@@ -4,7 +4,7 @@ longread
 
 посути только ссылки на сами гайды :p
 
-#MTProto proxy for telegram
+# MTProto proxy for telegram
 https://mtproto.ru/
 https://github.com/SoliSpirit/mtproto
 t.me/ProxyMTProto
