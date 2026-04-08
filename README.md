@@ -1,9 +1,6 @@
 # ANTI-BLOCK-THINGS
-longread
-
-
 посути только ссылки на сами гайды :p
-
+longread - https://teletype.in/@sokaces/russiacensorship - еще больше интересных обходов
 # MTProto proxy for telegram
 https://mtproto.ru/
 
