@@ -1,5 +1,6 @@
 # ANTI-BLOCK-THINGS
 посути только ссылки на сами гайды :p
+
 longread - https://teletype.in/@sokaces/russiacensorship - еще больше интересных обходов
 
 # DNS change(если DNS_PROBE_FINISHED_NXDOMAIN)
