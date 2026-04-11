@@ -1,6 +1,10 @@
 # ANTI-BLOCK-THINGS
 посути только ссылки на сами гайды :p
 longread - https://teletype.in/@sokaces/russiacensorship - еще больше интересных обходов
+
+# DNS change(если DNS_PROBE_FINISHED_NXDOMAIN)
+https://buildin.ai/freeinet/share/279b6816-c6b3-4e8e-bc39-c85aa730126c?code=U67RLA
+
 # MTProto proxy for telegram
 https://mtproto.ru/
 
